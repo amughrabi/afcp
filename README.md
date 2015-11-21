@@ -30,7 +30,7 @@ Finally, you need to include the edited `afcp.css` into your project `<head>` el
 <link rel="stylesheet" type="text/css" href="${AFCP_PATH}/afcp.css"/>
 ```
 
-# Table of Arabic Common Phrases:
+### Table of Arabic Common Phrases:
 
 We are using [font2u.com](http://www.fonts2u.com/aga-islamic-phrases.font) font that available us to draw more than 90 common arabic phrases, and these phrases are listed as bellow:
 
