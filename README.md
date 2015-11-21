@@ -1,6 +1,11 @@
 # AFCP
 AFCP, Arabic Font for Common Phrases, is a set of CSS rules that provide common phrases for Arabic language. You can customize colors, rotatation, size, and any powerful CSS delaration.
 
+All what we want to do is adding html element with a proper class, for example:
+```html
+<span class="afcp afcp-5x afcp-islam"></span>
+```
+
 ### Setting up AFCP in your project:
 #### Simplest way:
 Just add your following code into your `<head>` element:
